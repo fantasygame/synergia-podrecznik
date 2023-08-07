@@ -11,7 +11,6 @@ S - ilość sukcesów w rzucie kośćmi many
 ___
 **Szał**
 
-Zdolność pasywna
 Trudność: 5
 
 Wpadasz w szał bojowy. Każdy S dodaje poziom efektu szału.
@@ -23,7 +22,7 @@ Efekt nie zmniejsza się i trwa do końca walki.
 ___
 **Desperacki atak**
 
-Zdolność ofensywna.
+Zdolność pasywna.
 
 Atakujesz nie zważając na konsekwencje.\
 Możesz dodać swoje kości życia przy ataku. Każda wykorzystana kość zadaje Ci ranę.
