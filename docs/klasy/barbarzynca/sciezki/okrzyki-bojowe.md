@@ -20,8 +20,8 @@ Dodajesz S poziomów efektu [strachu](/docs/efekty/strach.md) temu przeciwnikowi
 ___
 **Przeraźliwy ryk**
 
-Ofensywny efekt obszarowy.
-Bazowy koszt many: 2
+Ofensywny efekt obszarowy.\
+Bazowy koszt many: 2\
 Trudność: Kość many przeciwników
 
 Powodujesz strach u wszystkich wrogów wokół siebie.
