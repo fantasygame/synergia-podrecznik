@@ -38,7 +38,7 @@ Maksymalnie tyle ile wydajesz many na atak.
 ___
 **Roztrzaskanie czaszek**
 
-Ofensywna zdolność bojowa.
+Ofensywna zdolność bojowa. W szale.
 
 Atakujesz dwóch przeciwników stojących obok siebie.\
 Łapiesz ich za głowy i zderzasz ich czaszki.
