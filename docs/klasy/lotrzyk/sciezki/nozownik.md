@@ -1,27 +1,8 @@
 # Nożownik
 
-Ścieżka powietrza pozwala odpychać przeciwników i roztrzaskiwać ich o ściany.
+...
 
 <img src="imgs/nozownik.png" width="400">
-
-# Talenty
-
-**Halny wiatr:**
-
-Efekt odepchnięcia +1S
-
-**Roztrzaskanie:**
-
-Dodadkowa rana przy roztrzaskaniu.
-
-**Wietrzny talent:**
-
-Dodaj połowę swojego poziomu do wszystkich rzutów z tej ścieżki.
-
-# Roztrzaskanie - mechanika
-
-Kiedy odepchnięty przeciwnik uderzy np. w ścianę otrzymuje obrażenia.\
-Rzuć tyloma kośćmi swojej many ile pól został odepchnięty przeciwnik zanim się roztrzaskał.
 
 # Zdolności:
 
@@ -29,70 +10,58 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Odepchnięcie**
+**Szybkie cięcia**
 
-Atak z dystansu przeciwko manie.
+Zdolność ofensywna.
 
-Odpychasz przeciwnika o S kroków.
+Atakujesz przeciwnika. Możesz wykonać błyskawiczny drugi atak rzucając połową wydanej many. Celem drugiego ataku może być w ten sam cel lub inny oddalony maks o jeden krok.
 ___
-**Powietrzna zbroja**
+**Atak z odskokiem**
 
-Defensywna zdolność dystansowa.\
-Trudność: 5
+Po wykonanym ataku możesz odskoczyć na S zadanych obrażeń, w dowolnym kierunku.
 
-Tworzysz S-poziomowy efekt:\
-Kiedy ktoś cię atakuje, (przed rzutem ataku przeciwnika) rzuć S kośćmi many przeciwko manie przeciwnika. Odpychasz przeciwnika o S pól.
-
-Poziom efektu zmniejsza się o 1 lub ilość zadanych ran (co wyższe).
+Nie prowokujesz okazyjnych ataków.
 ___
-**Ściana wiatru**
-
-Ofensywna zdolność dystansowa.\
-Trudność: 5
-
-Tworzysz ścianę wiatru.
-
-Wybierz jej kształt i siłę.
-Podziel S pomiędzy:
-* Ilością pól ściany (ściana nie musi mieć linii prostej)
-* Ilością kości odpychania.
-
-Jeżeli przeciwnik wejdzie na taflę lodu rzuć kośćmi odpychania (twoje kości many). Odpychasz przeciwnika o S kroków od ściany.
-
-```
-Przykład:
-
-Elementalista z kością many k8 uzyskał 5S.
-Tworzy prostą ścianę o długości 3.
-Kiedy przeciwnik wchodzi w ścianę Elementalista rzuca 2k8. Uzyskuje 2S i odpycha przeciwnika o dwa pola od ściany.
-
-```
-___
-**Implozja**
+**Zabójcze rzuty**
 
 Ofensywna zdolność dystansowa.
-Trudność: Kość many przeciwników
 
-Tworzysz implozję na obszarze. Wszystkie postaci wokół tego obszaru odpychane są o S pól. Postać na polu implozji otrzymuje S obrażeń fizycznych - nie jest odepchnięta.
+Eliminujesz osłabionych przeciwników precyzyjnymi rzutami nożami.
 
-Bazowy koszt many: 2M
+Jeżeli atakując zabijesz cel, możesz wybrać kolejny i zaatakować jedną kością many mniej.
+___
+**Cios pod kolano**
 
-Stożek może zadawać obrażenia lub dodawać poziomy efektu [zmrożenia](/docs/efekty/zmrozenie.md).
-Wybierz przed rzutem.
+Ofensywna zdolność wręcz.
 
+Atakujesz przeciwnika, próbując zmniejszyć jego mobilność.
+Podziel S pomiędzy rany i zmniejszone kroki przeciwnika.
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Wichura**
+**Seria ataków**
 
-Ofensywna zdolność obszarowa.
+Ofensywna zdolność wręcz
 
-Tworzysz wichurę, która miota przeciwnikami wedle twojego życzenia.\
-Latające odłamki ranią wrogów.
+Bazowy koszt many: 3M
 
-Bazowy koszt many: 4M
+Robisz serię ataków z doskoku.
 
-Obszar 4x4
+Po wykonanym ataku możesz odskoczyć na S zadanych obrażeń do kolejnego przeciwnika.
 
-Każdego przeciwnika możesz albo:
-* odepchnąć (vs mana) o S kroków w wybranym kierunku
-* pociąć odłamkami (obrażenia vs życie)
+Ataki wykonujesz tak długo jak możesz doskoczyć do kolejnego celu.
+
+Za każdy niewykorzystany krok dostajesz punkt inspiracji.
+
+# Talenty
+
+**Mobilność:**
+
+Możesz przechodzić przez pola przeciwników.
+
+**Finezyjna broń:**
+
+Do ataków wręcz możesz dodać zręczność zamiast siły.
+
+**Kroki pacyfisty:**
+
+Jeżeli nie wykonujesz ataku w akcji, dodaj swój poziom do kroków.
