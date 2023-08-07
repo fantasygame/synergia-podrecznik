@@ -32,7 +32,7 @@ Jeżeli atakując zabijesz cel, możesz wybrać kolejny i zaatakować jedną ko�
 ___
 **Cios pod kolano**
 
-Ofensywna zdolność wręcz.
+Zdolność pasywna
 
 Atakujesz przeciwnika, próbując zmniejszyć jego mobilność.
 Podziel S pomiędzy rany i zmniejszone kroki przeciwnika.
