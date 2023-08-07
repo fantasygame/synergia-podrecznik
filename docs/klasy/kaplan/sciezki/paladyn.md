@@ -26,13 +26,16 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Ognisty pocisk**
+**Święta broń**
 
-Atak z dystansu
+Pasywna zdolność\
+Trudność: 5
 
-Zadajesz S ran od ognia.
+Twój oręż goreje boską światłością twojego patrona
 
-Fart: S-poziomowy efekt [Podpalenia](/docs/efekty/podpalenie.md)
+Dodaj S do swojego ataku.
+
+Efekt się nie zmniejsza i kumuluje. Trwa do końca walki.
 ___
 **Ognista zbroja**
 
