@@ -41,11 +41,10 @@ Trafiając zatapiasz w nim swoje pazury dodając efekt masakry o poziomie S.
 Kolejne trafione przez ciebie ataki w tego samego przeciwnika mają S premii do rzutu.
 Kolejne S przy ataku zwiększają poziom efektu.
 ___
-**Zdolność**
+**Regeneracja**
 
 ___
-**Zdolność**
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Zdolność**
+**Krwawy księżyc - dodawanie ekstra życia za zadane obrażenia**
