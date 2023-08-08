@@ -23,7 +23,7 @@ ___
 
 ___
 
-**Pogrom**
+**Pogrom - atak w pierwszy cel, później w drugi jeżeli pierwszy zabił. I w trzeci jeżeli drugi zabił. Kość many zmniejszona.**
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
