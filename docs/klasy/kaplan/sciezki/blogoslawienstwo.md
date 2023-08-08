@@ -10,20 +10,20 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Zdolność**
+**Dodanie ataku**
 
 ___
 
-**Zdolność**
+**Zmniejszenie trudności**
 
 ___
 
-**Zdolność**
+**Zwiększenie farta**
 
 ___
 
-**Zdolność**
+**Zwiększenie pancerza**
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Zdolność**
+**Plus do czegokolwiek**
