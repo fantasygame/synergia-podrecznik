@@ -65,8 +65,8 @@ Bazowy koszt many: 3M
 Zadajesz obrażenia od ognia przeciwnikom na obszarze 2x2.
 
 Ten sam rzut daje S ([podstawow trudność - 5](/docs/podstawowa-trudnosc.md)), które możesz rozdzielić pomiędzy:\
-Zwiększony obszar oleju (domyślnie działa na obszarze wybuchu) 1S = 3x3, 2S = 4x4 etc.\
-Poziomy efektu oleju - ilość kości many dodawanych do zdolności obszarowych (domyślnie 1).
+* Zwiększony obszar oleju (domyślnie działa na obszarze wybuchu) 1S = 3x3, 2S = 4x4 etc.\
+* Poziomy efektu oleju - ilość kości many dodawanych do zdolności obszarowych (domyślnie 1).
 
 Poziom efektu zmniejsza się o ilość kości dodanych do efektu obszarowego.
 ___
