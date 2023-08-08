@@ -52,15 +52,20 @@ Możesz wykorzystywać wszystkie jego umiejętności o jakich wiesz że istniej�
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Armia nieumarłych**
+**Przetoczenie krwi**
 
-Zdolność dystansowa. Wymaga ciał.\
-Trudność: Wybrana kość szkieleta\
-Bazowy koszt many: 4M
+Wznosisz się na wyżyny swoich zdolności nekrotycznych, manipulując życiem otaczających Cię sojuszników i wrogów. Dosłownie wysysasz krew z wrogich kreatur i pompujesz ją w rannych sojuszników.
 
-Podnosisz powoli ręce do góry niczym Nocny Król albo nekromanci na filmach.
+Bazowy koszt: 3\
+Trudność: Kości many
 
-Wszystkie szkielety w zasięgu wstają aby walczyć po twojej stronie z S kośćmi.
+Wykonaj test. 
+
+Każdy sukces przeciwko kości many wybranego wroga lub sojusznika w zasięgu zadaje mu ranę. Możesz również wyssać moc życiową z przywołanych. Trudność to zawsze 2.
+
+Za każdą zadaną ranę możesz przenieść energię życiową, lecząc jedną ranę sobie, sojusznikowi lub przywołanemu w zasięgu. 
+
+Przywołany może zyskać dodatkowe kości ponad początkowe zgodnie z zasadami [rozwijania kości życia i many](/docs/levelowanie-postaci.md).
 
 # Talenty
 
