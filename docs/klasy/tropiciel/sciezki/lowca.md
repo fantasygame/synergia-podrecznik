@@ -34,7 +34,8 @@ Wykonujesz atak przeciw wrogowi, a zadana mu rana staje się krwawą runą widoc
 
 Nakładasz na przeciwnika efekt o poziomie S.
 Każda wykorzystana przeciwko niemu zdolność dodaje S do tej kości.
-Postać może zdecydować się wykorzystać efekt, dodając jego poziom do rzutu.
+
+Dowolny członek drużyny może zdecydować się wykorzystać efekt, dodając jego poziom do rzutu.
 ___
 
 **Stożek zimna**
