@@ -11,20 +11,20 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Zdolność**
+**Uderzenie tarczą - obrażenia i przewrócenie**
 
 ___
 
-**Zdolność**
+**Rzut tarczą. W reakcji na atak, dodaje pancerz komuś w zasięgu.**
 
 ___
 
-**Zdolność**
+**Przejęcie damage na siebie**
 
 ___
 
-**Zdolność**
+**Osłona przed okazyjnym**
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Zdolność**
+**Postawa Tarczownika - mega bonus do pancerza dla wszystkich w koło**
