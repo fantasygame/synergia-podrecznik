@@ -6,10 +6,26 @@
 
 # Talenty
 
-**Podpalenie:**
+**Rozrzucenie pajączków:**
 
-Fart: [podpalasz](/docs/efekty/podpalenie.md) przeciwnika.\
-Stopień efektu [podpalenia](/docs/efekty/podpalenie.md) równy ilości zadanych obrażeń
+Trudność: 5
+
+Rozrzucasz pajączki utrudniając wrogom dostęp do sojuszników.
+
+Rozdziel S pomiędzy:
+Ilość kości obrażeń (twoich kości many)
+Poziom efektu [spowolnienia](/docs/efekty/spowolnienie.md)
+które zadziałają na każdą postać wchodzącą w obszar.
+
+Po przejściu jednego wroga przez obszar, zdejmij znacznik pajączków z tego pola.
+
+**Bolas**
+
+Rzucasz we wroga bolasem, który owija mu się wokół nóg.
+
+Wykonaj test ataku dystansowego. Trafiony przeciwnik zostaje [spowolniony](/docs/efekty/spowolnienie.md) o S. Jeśli liczba S przewyższa jego kroki, zostaje [unieruchomiony](/docs/efekty/unieruchomiony.md) i [przewraca się](/docs/efekty/przewrocony.md). 
+
+Aby zmniejszyć poziom efektu [spowolnienia](/docs/efekty/spowolnienie.md) przeciwnik musi uzyskać S sukcesów w rzucie many na rozplątanie bolasa.
 
 **Żar:**
 
