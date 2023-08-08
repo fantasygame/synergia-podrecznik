@@ -11,6 +11,7 @@ S - ilość sukcesów w rzucie kośćmi many
 ___
 
 **Odpychający strzał**
+
 Wystrzelasz pocisk z taką siłą, że jest on w stanie przesunąć wroga.
 
 Atakujesz wroga. Jeśli trafisz, dodatkowo odrzucasz go o S/2 kroków (min 1).
@@ -21,28 +22,13 @@ Ostrzeliwujesz wielu wrogów.
 
 Bazowy koszt: 1M, 2M, 3M kolejne cele
 ___
-**Ściana wiatru**
+**Kryję Cię**
 
-Ofensywna zdolność dystansowa.\
-Trudność: 5
+Osłaniasz sojusznika lekkim, ale rozpraszającym strzałem.
 
-Tworzysz ścianę wiatru.
+Jeśli posiadasz manę i widzisz, że wróg atakuje sojusznika, możesz go osłonić. 
 
-Wybierz jej kształt i siłę.
-Podziel S pomiędzy:
-* Ilością pól ściany (ściana nie musi mieć linii prostej)
-* Ilością kości odpychania.
-
-Jeżeli przeciwnik wejdzie na taflę lodu rzuć kośćmi odpychania (twoje kości many). Odpychasz przeciwnika o S kroków od ściany.
-
-```
-Przykład:
-
-Elementalista z kością many k8 uzyskał 5S.
-Tworzy prostą ścianę o długości 3.
-Kiedy przeciwnik wchodzi w ścianę Elementalista rzuca 2k8. Uzyskuje 2S i odpycha przeciwnika o dwa pola od ściany.
-
-```
+Wykonaj przeciwko niemu atak i odejmij mu S kości many od planowanego ataku.
 ___
 **Implozja**
 
