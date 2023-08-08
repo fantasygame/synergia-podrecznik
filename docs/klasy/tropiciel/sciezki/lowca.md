@@ -24,28 +24,32 @@ ___
 **Jestem szybszy od Ciebie**
 
 Atakując oznaczonego wroga możesz wykonać za darmo drugi atak tą samą pulą kości.
-
 ___
 
-Wybierz jej kształt i śliskość.
-Podziel S pomiędzy:
-* Ilością pól tafli (tafla może mieć dowolny kształt)
-* Ilością kości śliskości.
+**Procent składany**
 
-Jeżeli przeciwnik wejdzie na taflę lodu rzuć kośćmi śliskości (twoje kości many).
+Bazowy koszt: 2 many
 
-S odejmują przeciwnikowi pozostałe kroki.\
-Jeżeli zejdą do 0, przeciwnik się przewraca i testy przeciwko niemu mają [przewagę](/docs/przewaga.md).
+Wykonujesz atak przeciw wrogowi, a zadana mu rana staje się krwawą runą widoczną dla całej drużyny. 
 
-```
-Przykład:
+Nakładasz na przeciwnika efekt o poziomie S.
+Każda wykorzystana przeciwko niemu zdolność dodaje S do tej kości.
+Postać może zdecydować się wykorzystać efekt, dodając jego poziom do rzutu.
+___
+**Procent składany**
 
-Elementalista z kością many k8 uzyskał 4S.
-Tworzy taflę lodu na dwóch polach o śliskości 2.
+Naznaczasz wroga czyniąc go kuszącym celem dla całej drużyny.
 
-Przeciwnik ma szybkość 4 kroków. Robi dwa kroki i wchodzi na taflę.
-Elementalista rzuca 2k8 i uzyskuje trzy S. Przeciwnikowi zostały tylko dwa kroki więc się przewraca.
-```
+Bazowy koszt: 2 many
+Trudność: Kość many przeciwnika.
+
+Tworzysz efekt o poziomie S. Każdy test przeciwko (tylko) temu przeciwnikowi dostaje do S dodatkowych kości many.
+
+Jeżeli naznaczony przeciwnik otrzymał obrażenia, poziom efektu się zwiększa.
+
+Poziom efektu zmniejsza się o ilość dodanej premii.
+
+ Kładziesz na polu tego wroga znacznik z liczbą S. Od tej pory każdy trafiony przeciw niemu atak obniża znacznik o 1. Atak zadany po wyzerowaniu licznika zyskuje dodatkową pulę S kości many.
 ___
 **Stożek zimna**
 
