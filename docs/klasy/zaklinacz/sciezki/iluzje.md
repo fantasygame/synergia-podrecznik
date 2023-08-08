@@ -11,20 +11,20 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Zdolność**
+**Rozpraszająca iluzja - przeciwnicy ją atakują. Jak trafią - znika.**
 
 ___
 
-**Zdolność**
+**Iluzoryczna przeszkoda - przeciwnicy ją omijają dopóki ktoś nie wejdzie. Można ją zmieniać.**
 
 ___
 
-**Zdolność**
+**Wyglądacie na większych - zwiększona trudność dla przeciwnika**
 
 ___
 
-**Zdolność**
+**Niewidzialność - odporność na S okazyjnych. S rund nie można atakować.**
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Zdolność**
+**Prawdziwa iluzja - kopia postaci - jakoś osłabiona - te same zdolności**
