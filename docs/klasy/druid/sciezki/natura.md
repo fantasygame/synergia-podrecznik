@@ -11,21 +11,13 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Przywołanie zwierzęcia**
+**Korowa zbroja**
 
-dzik - odepchnięcie
-pająk - pajęczyna
-ptak - bez okazyjnych
-wąż - pochwycenie
 
 ___
 
-**Przywołanie rośliny**
+**Osłabiający pył**
 
-grzyb - otrucie
-pnącze - oplątanie
-paproć - przejmuje obrażenia
-borówki - leczenie
 
 ___
 
@@ -33,7 +25,7 @@ ___
 
 ___
 
-**Połączenie z naturą - wydawanie swojej many na przywołanych**
+**Trujące pnącza**
 
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
