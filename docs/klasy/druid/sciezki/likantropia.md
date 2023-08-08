@@ -31,19 +31,25 @@ Jeżeli jesteś wilkołakiem, możesz zaatakować dwa cele bez dodatkowego koszt
 
 Kolejny cel +2M
 ___
-**Rozszarpanie**
+**Masakrowanie**
 
-Ofensywna zdolność wręcz.
+Ofensywna zdolność wręcz, wilkołak
 
-Atakujesz przeciwnika. Jeżeli go trafisz zatapiasz w nim swoje pazury.
-Następny atak przeciwko temu przeciwnikowi 
+Atakujesz przeciwnika. Zadajesz S obrażeń.\
+Trafiając zatapiasz w nim swoje pazury dodając efekt masakry o poziomie S.
 
-```
-Przykład:
+Kolejne trafione przez ciebie ataki w tego samego przeciwnika mają S premii do rzutu.
+Kolejne S przy ataku zwiększają poziom efektu.
+___
+**d**
 
-Elementalista z kością many k8 uzyskał 5S.
-Tworzy ścianę o długości 3 w kształcie litery L. Przeciwnik wchodzący w ścianę otrzymuje 2k8 obrażeń od ognia.
-```
+Ofensywna zdolność wręcz, wilkołak
+
+Atakujesz przeciwnika. Zadajesz S obrażeń.\
+Trafiając zatapiasz w nim swoje pazury dodając efekt masakry o poziomie S.
+
+Kolejne trafione przez ciebie ataki w tego samego przeciwnika mają S premii do rzutu.
+Kolejne S przy ataku zwiększają poziom efektu.
 ___
 **Kula ognia**
 
