@@ -49,7 +49,7 @@ Ofensywna zdolność bojowa.
 
 Przeskakujesz nad głowami przeciwników i lądujesz pomiędzy nimi.
 
-Bazowy koszt many: 2M
+Bazowy koszt many: 3M
 
 Możesz przechodzić przez pola przeciwników (przeskakujesz nad nimi).\
 Atakujesz wszystkich wokół siebie.
