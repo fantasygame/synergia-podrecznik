@@ -19,11 +19,11 @@ ___
 
 ___
 
-**Teleportacja kogoś**
+**Manipulacja grawitacją - trudny teren**
 
 ___
 
-**Przysunięcie wroga**
+**Przysunięcie celu**
 
 ___
 
