@@ -1,6 +1,6 @@
 # Kapitan
 
-Ścieżka powietrza pozwala odpychać przeciwników i roztrzaskiwać ich o ściany.
+...
 
 <img src="imgs/kapitan.png" width="400">
 

@@ -1,6 +1,6 @@
 # Przywoływania
 
-Ścieżka powietrza pozwala odpychać przeciwników i roztrzaskiwać ich o ściany.
+...
 
 <img src="imgs/przywolywania.png" width="400">
 

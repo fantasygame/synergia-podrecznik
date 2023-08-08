@@ -1,6 +1,6 @@
 # Błogoslawienstwo
 
-Ścieżka powietrza pozwala odpychać przeciwników i roztrzaskiwać ich o ściany.
+...
 
 <img src="imgs/blogoslawienstwo.png" width="400">
 

@@ -1,7 +1,6 @@
 # Iluzje
 
-Ścieżka ognia pozwala na tworzenie potężnych ataków obszarowych.\
-Ataki mogą [podpalać](/docs/efekty/podpalenie.md) przeciwników.
+...
 
 <img src="imgs/iluzje.png" width="400">
 
