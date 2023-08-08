@@ -1,20 +1,61 @@
 # Asasyn
 
-Ścieżka lodu pozwala na zmrażanie i zamrażanie przeciwników.\
-Manipuluje też polem bitwy tworząc śliski teren przewracający przeciwników.
+...
 
 <img src="imgs/asasyn.png" width="400">
 
+___
+**Ukradkowy atak**
+
+Zdolność pasywna.
+
+Jezeli przy przeciwniku stoi sojusznik - [przewaga](/docs/przewaga.md) do ataku.
+___
+**Atak z zaskoczenia**
+
+Zdolność pasywna. Za plecami przeciwnika\
+Trudność: Kość many przeciwnika
+
+Ukrywając się szukasz słabych punktów przeciwnika. Dzięki temu atakijesz przeciwko manie a nie życiu.
+
+Można łączyć atak z zaskoczenia z atakiem ukradkowym.
+___
+**Trucizna**
+
+Trudność: 5
+
+Bazowy koszt many: 2M
+
+Nakładasz S poziomów trucizny na swoją broń.
+
+Jeżeli zadasz obrażenia przeciwnikowi, obniżasz jego rodzaj kości życia o 1.
+
+Przy każdym ataku (nawet nietrafionym) poziom efektu zmniejsza się o 1.
+___
+**Finta**
+
+Markowanym ciosem obniżasz obronę przeciwnika.
+Trudność: Kość many przeciwnika
+
+Obniż rodzaj kości życia przeciwnika o S do następnego ataku.
+# [Zdolność epicka](/docs/zdolnosc-epicka.md):
+
+**Chaos**
+
+Bazowy koszt many: 3M
+
+Możesz zaatakować każdego wroga, przy którym stoi sojusznik.
+___
 # Talenty
 
-**Zmrożenie:**
+**:**
 
 Fart: [zmrażasz](/docs/efekty/zmrozenie.md) przeciwnika.\
 Stopień efektu [Zmrożenia](/docs/efekty/zmrozenie.md) równy ilości S
 
-**Szron:**
+**Ukradkowy z dystansu:**
 
-Dodaj swój poziom do rzutów przeciwko [zmrożonym](/docs/efekty/zmrozenie.md) przeciwnikom.
+Możesz wykonywać ukradkowy atak z dystansu.
 
 **Lodowy talent:**
 
@@ -23,78 +64,3 @@ Dodaj połowę swojego poziomu do wszystkich rzutów z tej ścieżki.
 # Zdolności:
 
 S - ilość sukcesów w rzucie kośćmi many
-
-___
-
-**Lodowy pocisk**
-
-Atak z dystansu
-
-Zadajesz S ran od lodu.
-
-Fart: S-poziomowy efekt [Zmrożenia](/docs/efekty/zmrozenie.md)
-___
-**Lodowa zbroja**
-
-Defensywna zdolność dystansowa.\
-Trudność: 5
-
-Tworzysz S-poziomowy efekt:\
-Kiedy ktoś cię atakuje, (przed rzutem ataku przeciwnika) rzuć S kośćmi many przeciwko manie przeciwnika. Dodaj S-poziomowy efekt zmrożenia.
-
-Poziom efektu zmniejsza się o ilość dodanych poziomów efektów zmrożenia.
-___
-**Tafla lodu**
-
-Obszarowa zdolność dystansowa.\
-Trudność: 5
-
-Tworzysz taflę lodu.
-
-Wybierz jej kształt i śliskość.
-Podziel S pomiędzy:
-* Ilością pól tafli (tafla może mieć dowolny kształt)
-* Ilością kości śliskości.
-
-Jeżeli przeciwnik wejdzie na taflę lodu rzuć kośćmi śliskości (twoje kości many).
-
-S odejmują przeciwnikowi pozostałe kroki.\
-Jeżeli zejdą do 0, przeciwnik się przewraca i testy przeciwko niemu mają [przewagę](/docs/przewaga.md).
-
-```
-Przykład:
-
-Elementalista z kością many k8 uzyskał 4S.
-Tworzy taflę lodu na dwóch polach o śliskości 2.
-
-Przeciwnik ma szybkość 4 kroków. Robi dwa kroki i wchodzi na taflę.
-Elementalista rzuca 2k8 i uzyskuje trzy S. Przeciwnikowi zostały tylko dwa kroki więc się przewraca.
-```
-___
-**Stożek zimna**
-
-Ofensywna zdolność ofensywna. Stożek zaczyna się od postaci.
-
-Bazowy koszt many zależny od długości stożka:\
-2: 2M\
-3: 3M\
-4: 4M
-
-Stożek może zadawać obrażenia lub dodawać poziomy efektu [zmrożenia](/docs/efekty/zmrozenie.md).
-Wybierz przed rzutem.
-
-# [Zdolność epicka](/docs/zdolnosc-epicka.md):
-
-**Zamieć**
-
-Ofensywna zdolność obszarowa.
-
-Tworzysz zamieć, która zadaje obrażenia od zimna i zmraża.
-
-Bazowy koszt many: 4M
-
-Obszar 3x3
-
-Zadajesz S obrażeń i poziomów zmrożenia.
-
-Możesz wydać dodatkowe 2M aby zwiększyć obszar do 4x4
