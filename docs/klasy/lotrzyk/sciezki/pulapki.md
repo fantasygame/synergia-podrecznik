@@ -35,13 +35,23 @@ Trudność 5
 
 Raca zaciemniania pole na lewo od Ciebie. Przesuwając się po mapie, ciągniesz za sobą smugę dymu, która może zaciemnić do S pól.
 
-**Żar:**
+**Koktajl Mołotowa**
 
-Dodaj swój poziom do rzutów przeciwko [podpalonym](/docs/efekty/podpalenie.md) przeciwnikom.
+Ciskasz w stronę wrogów butlę zmieszanych olejów.
 
-**Ognisty talent:**
+Trudność: Patrz opis
 
-Dodaj połowę swojego poziomu do wszystkich rzutów z tej ścieżki.
+Rzucasz w jednego wroga butlę, która oprócz zadawania obrażeń rozlewa olej na obszarze.
+Każda zdolność obszarowa rzucona w tym rejonie jest wzmocniona o wybraną liczbę kości (max poziom efektu) (łatwopalny olej zwiększa efekt ognistego wybuchu, lodowa tafla polana olejem jest bardziej śliska, wiatrowe pchnięcie jest efektywniejsze na śliskiej powierzchni, itp.)
+
+Zadajesz obrażenia od ognia jednemu przeciwnikowi (trudność: Kość życia).
+
+Ten sam rzut daje S ([podstawow trudność - 5](/docs/podstawowa-trudnosc.md)).\
+które możesz rozdzielić na:\
+Zwiększony obszar (domyślnie działa na jednym polu przeciwnika) 1S = 2x2, 2S = 3x3 etc.\
+Poziomy efektu - ilość kości many dodawanych do zdolności obszarowych (domyślnie 1).
+
+Poziom efektu zmniejsza się o ilość kości dodanych do efektu obszarowego.
 
 # Zdolności:
 
