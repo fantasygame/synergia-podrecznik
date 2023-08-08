@@ -33,7 +33,7 @@ Bazowy koszt: 2 many
 Wykonujesz atak przeciw wrogowi, a zadana mu rana staje się krwawą runą widoczną dla całej drużyny. 
 
 Nakładasz na przeciwnika efekt o poziomie S.
-Każda wykorzystana przeciwko niemu zdolność dodaje S do tej kości.
+Każda wykorzystana przeciwko niemu zdolność dodaje S do poziomu efektu.
 
 Dowolny członek drużyny może zdecydować się wykorzystać efekt, dodając jego poziom do rzutu.
 ___
