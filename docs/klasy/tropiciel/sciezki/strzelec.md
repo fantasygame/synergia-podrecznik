@@ -40,17 +40,10 @@ Podziel S na:
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Wichura**
+**Grad strzał**
 
-Ofensywna zdolność obszarowa.
+Grad strzał - zasyp wrogów prawdziwym deszczem pocisków wystrzeliwanych ze śmiercionośną szybkością.
 
-Tworzysz wichurę, która miota przeciwnikami wedle twojego życzenia.\
-Latające odłamki ranią wrogów.
+Bazowy koszt: 3 many
 
-Bazowy koszt many: 4M
-
-Obszar 4x4
-
-Każdego przeciwnika możesz albo:
-* odepchnąć (vs mana) o S kroków w wybranym kierunku
-* pociąć odłamkami (obrażenia vs życie)
+Wybierz obszar 3x3 zaczynający się w twoim zasięgu. Atakujesz wybrane przez siebie cele na tym obszarze.
