@@ -11,20 +11,20 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Zdolność**
+**Przejęcie kontroli - S many kontroli**
 
 ___
 
-**Zdolność**
+**Telepatia - możesz wykonać zdolność innej postaci - gorzej**
 
 ___
 
-**Zdolność**
+**Bariera mentalna - zwiększona trudność przeciwko manie dla drużyny**
 
 ___
 
-**Zdolność**
+**Leczenie psychiczne - leczy manę u innych postaci**
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Zdolność**
+**Grupowe przejęcie kontroli - wiele celów na raz robi akcję**
