@@ -15,20 +15,20 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Zdolność**
+**Teleportacja**
 
 ___
 
-**Zdolność**
+**Teleportacja kogoś**
 
 ___
 
-**Zdolność**
+**Przysunięcie wroga**
 
 ___
 
-**Zdolność**
+**Zamiania miejsc**
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Zdolność**
+**Masowa teleportacja**
