@@ -13,7 +13,6 @@ ___
 **Odpychający strzał**
 Wystrzelasz pocisk z taką siłą, że jest on w stanie przesunąć wroga.
 
-Bazowy koszt: 1 many
 Atakujesz wroga. Jeśli trafisz, dodatkowo odrzucasz go o S/2 kroków (min 1).
 ___
 **Powietrzna zbroja**
