@@ -1,6 +1,6 @@
 # Strzelec
 
-Ścieżka powietrza pozwala odpychać przeciwników i roztrzaskiwać ich o ściany.
+...
 
 <img src="imgs/strzelec.png" width="400">
 
@@ -10,11 +10,11 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Odepchnięcie**
+**Odpychający strzał**
+Wystrzelasz pocisk z taką siłą, że jest on w stanie przesunąć wroga.
 
-Atak z dystansu przeciwko manie.
-
-Odpychasz przeciwnika o S kroków.
+Bazowy koszt: 1 many
+Atakujesz wroga. Jeśli trafisz, dodatkowo odrzucasz go o S/2 kroków (min 1).
 ___
 **Powietrzna zbroja**
 
