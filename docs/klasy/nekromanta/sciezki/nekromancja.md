@@ -61,11 +61,11 @@ Trudność: Kości many
 
 Wykonaj test. 
 
-Każdy sukces przeciwko kości many wybranego wroga lub sojusznika w zasięgu zadaje mu ranę. Możesz również wyssać moc życiową z przywołanych. Trudność to zawsze 2.
+Każdy sukces przeciwko kości many wybranego wroga lub sojusznika w zasięgu zadaje mu ranę. Możesz również wyssać moc życiową z przywołanych nieumarłych. Trudność to zawsze 2.
 
-Za każdą zadaną ranę możesz przenieść energię życiową, lecząc jedną ranę sobie, sojusznikowi lub przywołanemu w zasięgu. 
+Za każdą zadaną ranę możesz przenieść energię życiową, lecząc jedną ranę sobie, sojusznikowi lub przywołanemu nieumarłemu w zasięgu. 
 
-Przywołany może zyskać dodatkowe kości ponad początkowe zgodnie z zasadami [rozwijania kości życia i many](/docs/levelowanie-postaci.md).
+Przywołany nieumarły może zyskać dodatkowe kości ponad początkowe zgodnie z zasadami [rozwijania kości życia i many](/docs/levelowanie-postaci.md).
 
 # Talenty
 
