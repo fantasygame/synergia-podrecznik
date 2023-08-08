@@ -18,7 +18,7 @@ ___
 
 ___
 
-**Zwiększenie farta**
+**Zwiększenie kości - jeden cel**
 
 ___
 
