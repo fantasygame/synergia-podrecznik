@@ -27,4 +27,4 @@ ___
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Zamieć**
+**Wirujący atak - zamaszysty z przejściem kroków**
