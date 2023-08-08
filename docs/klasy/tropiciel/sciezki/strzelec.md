@@ -36,7 +36,7 @@ Wykonaj atak przeciwko wrogowi zatrutą strzałą.
 
 Podziel S na:
 * obrażenia
-* poziom [zatrucia](/docs/efekty/zatrucie.md) celu
+* poziom efektu [zatrucia](/docs/efekty/zatrucie.md)
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
