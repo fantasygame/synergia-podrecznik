@@ -47,7 +47,7 @@ Podziel S na:
 * Obniżenie rodzaju kości życia celu do następnego ataku.
 
 ___
-Zdolność epicka
+# [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
 **Dewastująca seria**
 
@@ -57,19 +57,3 @@ Wyprowadzasz serię uderzeń w oznaczony cel.
 
 Zaatakuj oznaczony cel trzy razy.\
 Jeśli jeden z ataków trafi, dodaj do kolejnego dodatkową kość many.\ Jeśli pierwszy i drugi atak trafią, dodaj do ostatniego dwie dodatkowe kości many.
-
-# [Zdolność epicka](/docs/zdolnosc-epicka.md):
-
-**Zamieć**
-
-Ofensywna zdolność obszarowa.
-
-Tworzysz zamieć, która zadaje obrażenia od zimna i zmraża.
-
-Bazowy koszt many: 4M
-
-Obszar 3x3
-
-Zadajesz S obrażeń i poziomów zmrożenia.
-
-Możesz wydać dodatkowe 2M aby zwiększyć obszar do 4x4
