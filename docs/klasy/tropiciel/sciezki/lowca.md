@@ -21,12 +21,12 @@ Oznaczasz jednego wroga.
 * Twoje kroki zwiększają się o S/2, jeśli zbliżasz się do (gonisz) tego wroga (poruszasz się po najkrótszej drodze do niego).
 
 ___
-**Jestem szybszy od Ciebie**
+**Podwójny atak**
 
-Atakując oznaczonego wroga możesz wykonać za darmo drugi atak tą samą pulą kości.
+Atakując oznaczonego wroga możesz wykonać za darmo drugi atak z pulą many mniejszą o jedną kość.
 ___
 
-**Procent składany**
+**Procentujący atak**
 
 Bazowy koszt: 2 many
 
@@ -37,18 +37,26 @@ Każda wykorzystana przeciwko niemu zdolność dodaje S do poziomu efektu.
 
 Dowolny członek drużyny może zdecydować się wykorzystać efekt, dodając jego poziom do rzutu.
 ___
+**Obnażający atak**
 
-**Stożek zimna**
+Celujcie pomiędzy łuski!\
+Wykonujesz atak, który obnaża słabości przeciwnika. 
 
-Ofensywna zdolność ofensywna. Stożek zaczyna się od postaci.
+Podziel S na:
+* Zadane rany oraz
+* Obniżenie rodzaju kości życia celu do następnego ataku.
 
-Bazowy koszt many zależny od długości stożka:\
-2: 2M\
-3: 3M\
-4: 4M
+___
+Zdolność epicka
 
-Stożek może zadawać obrażenia lub dodawać poziomy efektu [zmrożenia](/docs/efekty/zmrozenie.md).
-Wybierz przed rzutem.
+**Dewastująca seria**
+
+Bazowy koszt: 3 many. 2 many przeciwko oznaczonemu przeciwnikowi.
+
+Wyprowadzasz serię uderzeń w oznaczony cel.
+
+Zaatakuj oznaczony cel trzy razy.\
+Jeśli jeden z ataków trafi, dodaj do kolejnego dodatkową kość many.\ Jeśli pierwszy i drugi atak trafią, dodaj do ostatniego dwie dodatkowe kości many.
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
