@@ -22,7 +22,7 @@ Ostrzeliwujesz wielu wrogów.
 
 Bazowy koszt: 1M, 2M, 3M kolejne cele
 ___
-**Kryję Cię**
+**Rozpraszający strzał**
 
 Osłaniasz sojusznika lekkim, ale rozpraszającym strzałem.
 
