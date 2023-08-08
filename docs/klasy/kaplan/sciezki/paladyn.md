@@ -11,20 +11,22 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Zdolność**
+**Święta broń**
 
 ___
 
-**Zdolność**
+**Kolumna światła**
 
 ___
 
-**Zdolność**
+**Modlitwa - boostowanie następnej akcji**
 
 ___
 
-**Zdolność**
+**Pogrom**
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Zdolność**
+**Boska interwencja - anulowanie ataku przeciwnika**
+
+Koszt: Ilość kości many wydanych na zdolność.
