@@ -30,17 +30,13 @@ Jeśli posiadasz manę i widzisz, że wróg atakuje sojusznika, możesz go osło
 
 Wykonaj przeciwko niemu atak i odejmij mu S kości many od planowanego ataku.
 ___
-**Implozja**
+**Zatruta strzała**
 
-Ofensywna zdolność dystansowa.
-Trudność: Kość many przeciwników
+Wykonaj atak przeciwko wrogowi zatrutą strzałą. 
 
-Tworzysz implozję na obszarze. Wszystkie postaci wokół tego obszaru odpychane są o S pól. Postać na polu implozji otrzymuje S obrażeń fizycznych - nie jest odepchnięta.
-
-Bazowy koszt many: 2M
-
-Stożek może zadawać obrażenia lub dodawać poziomy efektu [zmrożenia](/docs/efekty/zmrozenie.md).
-Wybierz przed rzutem.
+Podziel S na:
+* obrażenia
+* poziom [zatrucia](/docs/efekty/zatrucie.md) celu
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
