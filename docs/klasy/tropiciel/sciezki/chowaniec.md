@@ -11,20 +11,20 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Zdolność**
+**Chowaniec**
 
 ___
 
-**Zdolność**
+**Przy nodze - chodzi razem z postacią, postać razem z chowańcem**
 
 ___
 
-**Zdolność**
+**Wspólny atak - jedna ini**
 
 ___
 
-**Zdolność**
+**Połączenie z chowańcem - wymienianie się maną**
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Zdolność**
+**Przemiana chowańca - jak w pokemonach**
