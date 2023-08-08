@@ -1,23 +1,8 @@
 # Łowca
 
-Ścieżka lodu pozwala na zmrażanie i zamrażanie przeciwników.\
-Manipuluje też polem bitwy tworząc śliski teren przewracający przeciwników.
+...
 
 <img src="imgs/lowca.png" width="400">
-# Talenty
-
-**Zmrożenie:**
-
-Fart: [zmrażasz](/docs/efekty/zmrozenie.md) przeciwnika.\
-Stopień efektu [Zmrożenia](/docs/efekty/zmrozenie.md) równy ilości S
-
-**Szron:**
-
-Dodaj swój poziom do rzutów przeciwko [zmrożonym](/docs/efekty/zmrozenie.md) przeciwnikom.
-
-**Lodowy talent:**
-
-Dodaj połowę swojego poziomu do wszystkich rzutów z tej ścieżki.
 
 # Zdolności:
 
@@ -25,30 +10,22 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Lodowy pocisk**
+**Naznaczenie**
 
-Atak z dystansu
+Kiedy raz wybierzesz cel, nie ma on z Tobą szans.
 
-Zadajesz S ran od lodu.
+Trudność: Kość many przeciwnika.
 
-Fart: S-poziomowy efekt [Zmrożenia](/docs/efekty/zmrozenie.md)
+Oznaczasz jednego wroga. 
+* Do końca walki otrzymujesz S premii do wszystkich zdolności przeciwko temu przeciwnikowi.
+* Twoje kroki zwiększają się o S/2, jeśli zbliżasz się do (gonisz) tego wroga (poruszasz się po najkrótszej drodze do niego).
+
 ___
-**Lodowa zbroja**
+**Jestem szybszy od Ciebie**
 
-Defensywna zdolność dystansowa.\
-Trudność: 5
+Atakując oznaczonego wroga możesz wykonać za darmo drugi atak tą samą pulą kości.
 
-Tworzysz S-poziomowy efekt:\
-Kiedy ktoś cię atakuje, (przed rzutem ataku przeciwnika) rzuć S kośćmi many przeciwko manie przeciwnika. Dodaj S-poziomowy efekt zmrożenia.
-
-Poziom efektu zmniejsza się o ilość dodanych poziomów efektów zmrożenia.
 ___
-**Tafla lodu**
-
-Obszarowa zdolność dystansowa.\
-Trudność: 5
-
-Tworzysz taflę lodu.
 
 Wybierz jej kształt i śliskość.
 Podziel S pomiędzy:
