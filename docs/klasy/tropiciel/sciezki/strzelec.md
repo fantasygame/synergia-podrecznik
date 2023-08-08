@@ -15,15 +15,11 @@ Wystrzelasz pocisk z taką siłą, że jest on w stanie przesunąć wroga.
 
 Atakujesz wroga. Jeśli trafisz, dodatkowo odrzucasz go o S/2 kroków (min 1).
 ___
-**Powietrzna zbroja**
+**Salwa**
 
-Defensywna zdolność dystansowa.\
-Trudność: 5
+Ostrzeliwujesz wielu wrogów.
 
-Tworzysz S-poziomowy efekt:\
-Kiedy ktoś cię atakuje, (przed rzutem ataku przeciwnika) rzuć S kośćmi many przeciwko manie przeciwnika. Odpychasz przeciwnika o S pól.
-
-Poziom efektu zmniejsza się o 1 lub ilość zadanych ran (co wyższe).
+Bazowy koszt: 1M, 2M, 3M kolejne cele
 ___
 **Ściana wiatru**
 
