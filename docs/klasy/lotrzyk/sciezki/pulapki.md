@@ -27,6 +27,14 @@ Wykonaj test ataku dystansowego. Trafiony przeciwnik zostaje [spowolniony](/docs
 
 Aby zmniejszyć poziom efektu [spowolnienia](/docs/efekty/spowolnienie.md) przeciwnik musi uzyskać S sukcesów w rzucie many na rozplątanie bolasa.
 
+**Raca dymna**
+
+Odpalasz racę dymną, umieszczoną na długim kiju.
+
+Trudność 5
+
+Raca zaciemniania pole na lewo od Ciebie. Przesuwając się po mapie, ciągniesz za sobą smugę dymu, która może zaciemnić do S pól.
+
 **Żar:**
 
 Dodaj swój poziom do rzutów przeciwko [podpalonym](/docs/efekty/podpalenie.md) przeciwnikom.
