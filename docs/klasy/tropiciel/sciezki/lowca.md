@@ -36,21 +36,7 @@ Nakładasz na przeciwnika efekt o poziomie S.
 Każda wykorzystana przeciwko niemu zdolność dodaje S do tej kości.
 Postać może zdecydować się wykorzystać efekt, dodając jego poziom do rzutu.
 ___
-**Procent składany**
 
-Naznaczasz wroga czyniąc go kuszącym celem dla całej drużyny.
-
-Bazowy koszt: 2 many
-Trudność: Kość many przeciwnika.
-
-Tworzysz efekt o poziomie S. Każdy test przeciwko (tylko) temu przeciwnikowi dostaje do S dodatkowych kości many.
-
-Jeżeli naznaczony przeciwnik otrzymał obrażenia, poziom efektu się zwiększa.
-
-Poziom efektu zmniejsza się o ilość dodanej premii.
-
- Kładziesz na polu tego wroga znacznik z liczbą S. Od tej pory każdy trafiony przeciw niemu atak obniża znacznik o 1. Atak zadany po wyzerowaniu licznika zyskuje dodatkową pulę S kości many.
-___
 **Stożek zimna**
 
 Ofensywna zdolność ofensywna. Stożek zaczyna się od postaci.
