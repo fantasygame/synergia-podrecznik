@@ -10,20 +10,20 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Zdolność**
+**Leczenie**
 
 ___
 
-**Zdolność**
+**Leczenie grupowe**
 
 ___
 
-**Zdolność**
+**Transfuzja**
 
 ___
 
-**Zdolność**
+**Usunięcie efektu**
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Zdolność**
+**Zmartwychwstanie - wstanie i grupowe leczenie**
