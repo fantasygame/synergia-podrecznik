@@ -4,6 +4,10 @@
 
 <img src="imgs/asasyn.png" width="400">
 
+# Zdolności:
+
+S - ilość sukcesów w rzucie kośćmi many
+
 ___
 **Ukradkowy atak**
 
@@ -61,6 +65,3 @@ Możesz wykonywać ukradkowy atak z dystansu.
 
 Dodaj połowę swojego poziomu do wszystkich rzutów z tej ścieżki.
 
-# Zdolności:
-
-S - ilość sukcesów w rzucie kośćmi many

@@ -5,21 +5,6 @@ Ataki mogą [podpalać](/docs/efekty/podpalenie.md) przeciwników.
 
 <img src="imgs/paladyn.png" width="400">
 
-# Talenty
-
-**Podpalenie:**
-
-Fart: [podpalasz](/docs/efekty/podpalenie.md) przeciwnika.\
-Stopień efektu [podpalenia](/docs/efekty/podpalenie.md) równy ilości zadanych obrażeń
-
-**Żar:**
-
-Dodaj swój poziom do rzutów przeciwko [podpalonym](/docs/efekty/podpalenie.md) przeciwnikom.
-
-**Ognisty talent:**
-
-Dodaj połowę swojego poziomu do wszystkich rzutów z tej ścieżki.
-
 # Zdolności:
 
 S - ilość sukcesów w rzucie kośćmi many

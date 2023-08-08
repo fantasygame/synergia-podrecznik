@@ -4,36 +4,17 @@
 
 <img src="imgs/blogoslawienstwo.png" width="400">
 
-# Talenty
-
-**Halny wiatr:**
-
-Efekt odepchnięcia +1S
-
-**Roztrzaskanie:**
-
-Dodadkowa rana przy roztrzaskaniu.
-
-**Wietrzny talent:**
-
-Dodaj połowę swojego poziomu do wszystkich rzutów z tej ścieżki.
-
-# Roztrzaskanie - mechanika
-
-Kiedy odepchnięty przeciwnik uderzy np. w ścianę otrzymuje obrażenia.\
-Rzuć tyloma kośćmi swojej many ile pól został odepchnięty przeciwnik zanim się roztrzaskał.
-
 # Zdolności:
 
 S - ilość sukcesów w rzucie kośćmi many
 
 ___
-
 **Odepchnięcie**
 
 Atak z dystansu przeciwko manie.
 
 Odpychasz przeciwnika o S kroków.
+
 ___
 **Powietrzna zbroja**
 
@@ -44,6 +25,7 @@ Tworzysz S-poziomowy efekt:\
 Kiedy ktoś cię atakuje, (przed rzutem ataku przeciwnika) rzuć S kośćmi many przeciwko manie przeciwnika. Odpychasz przeciwnika o S pól.
 
 Poziom efektu zmniejsza się o 1 lub ilość zadanych ran (co wyższe).
+
 ___
 **Ściana wiatru**
 

@@ -82,18 +82,3 @@ Obszar 3x3
 Zadajesz S obrażeń i poziomów zmrożenia.
 
 Możesz wydać dodatkowe 2M aby zwiększyć obszar do 4x4
-
-# Talenty
-
-**Zmrożenie:**
-
-Fart: [zmrażasz](/docs/efekty/zmrozenie.md) przeciwnika.\
-Stopień efektu [Zmrożenia](/docs/efekty/zmrozenie.md) równy ilości S
-
-**Szron:**
-
-Dodaj swój poziom do rzutów przeciwko [zmrożonym](/docs/efekty/zmrozenie.md) przeciwnikom.
-
-**Lodowy talent:**
-
-Dodaj połowę swojego poziomu do wszystkich rzutów z tej ścieżki.
