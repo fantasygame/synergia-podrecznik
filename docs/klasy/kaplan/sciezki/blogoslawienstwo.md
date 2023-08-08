@@ -22,7 +22,7 @@ ___
 
 ___
 
-**Zwiększenie pancerza**
+**Zwiększenie farta**
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
