@@ -16,6 +16,8 @@ Zdolność dystansowa.
 Trudność: 5
 
 Zmniejszasz rodzaj kości many o S.
+
+Efekt zmniejsza się o 1 po każdym użyciu zdolności przeciwko obniżonej kości.
 ___
 **Wrażliwość**
 
@@ -23,6 +25,8 @@ Zdolność dystansowa.
 Trudność: 5
 
 Zmniejszasz rodzaj kości życia o S.
+
+Efekt zmniejsza się o 1 po każdym użyciu zdolności przeciwko obniżonej kości.
 ___
 **Wyssanie życia**
 
