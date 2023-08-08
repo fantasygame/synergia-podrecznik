@@ -1,7 +1,5 @@
 # Efekt - Zatrucie
 
-Postać która stworzyła efekt kładzie kość zatrucia - rodzaj ten sam co kość many.
+Zatruta postać odejmuje poziom zatrucia od testów.
 
-Na końcu swojej tury zatruta postać otrzymuje poziom zatrucia kości many zatruwającego ataku.
-
-Efekt zmniejsza się o ilość zadanych obrażeń.
+Efekt zmniejsza się o jeden przy każdym udanym teście.
