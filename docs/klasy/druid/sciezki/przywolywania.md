@@ -10,20 +10,28 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Zdolność**
+**Przywołanie zwierzęcia**
+
+dzik - odepchnięcie
+pająk - pajęczyna
+ptak - bez okazyjnych
+wąż - pochwycenie
+___
+
+**Przywołanie rośliny**
+
+grzyb - otrucie
+pnącze - oplątanie
+paproć - dodaje pancerza
+borówki - leczenie
+___
+
+**Osłona przywołanym**
 
 ___
 
-**Zdolność**
-
-___
-
-**Zdolność**
-
-___
-
-**Zdolność**
+**Połączenie ze zwierzęciem - wydawanie swojej many na przywołanych**
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Zdolność**
+**Przywołanie niedźwiedzia**
