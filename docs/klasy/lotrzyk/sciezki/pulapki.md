@@ -12,9 +12,9 @@ Trudność: 5
 
 Rozrzucasz pajączki utrudniając wrogom dostęp do sojuszników.
 
-Rozdziel S pomiędzy:
-Ilość kości obrażeń (twoich kości many)
-Poziom efektu [spowolnienia](/docs/efekty/spowolnienie.md)
+Rozdziel S pomiędzy:\
+Ilość kości obrażeń (twoich kości many)\
+Poziom efektu [spowolnienia](/docs/efekty/spowolnienie.md)\
 które zadziałają na każdą postać wchodzącą w obszar.
 
 Po przejściu jednego wroga przez obszar, zdejmij znacznik pajączków z tego pola.
