@@ -11,15 +11,15 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Święta broń**
+**Święta broń - premie do ataku**
 
 ___
 
-**Kolumna światła**
+**Kolumna światła - oślepienie**
 
 ___
 
-**Modlitwa - boostowanie następnej akcji**
+**Męczczennictwo - każdy otrzymany atak i obrażenie ładuje broń**
 
 ___
 
