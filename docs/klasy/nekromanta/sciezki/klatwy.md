@@ -17,7 +17,7 @@ Trudność: 5
 
 Zmniejszasz rodzaj kości many o S.
 
-Efekt zmniejsza się o 1 po każdym użyciu zdolności przeciwko obniżonej kości.
+Efekt zmniejsza się o 1 po każdym użyciu kości many.
 ___
 **Wrażliwość**
 
