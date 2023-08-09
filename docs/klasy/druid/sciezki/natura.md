@@ -20,12 +20,14 @@ Zwiększasz swój pancerz o S do końca walki.
 
 ___
 
-**Osłabiający pył**
+**Drażniący pył**
 
-Sypiesz pyłem w twerz przeciwnika. 
+Sypiesz pyłem z pokrzyw w twarz przeciwnika. 
 
 Zdolność dystansowa\
-Trudność: kość many przeciwnika
+Trudność: kość many przeciwnika.
+
+Zwiększasz trudność testów przeciwnika o S.
 
 Efekt zmniejsza się o 1 po każdym użyciu kości many.
 ___
