@@ -39,8 +39,8 @@ Ofensywna zdolność wręcz, wilkołak
 Atakujesz przeciwnika. Zadajesz S obrażeń.\
 Trafiając zatapiasz w nim swoje pazury dodając efekt masakry o poziomie S.
 
-Kolejne trafione przez ciebie ataki w tego samego przeciwnika mają S premii do rzutu.
-Kolejne S przy ataku zwiększają poziom efektu.
+Następny atak w tego przeciwnika dostaje S premii do rzutu, efekt jest usuwany.
+Jeżeli jednak przeciwnik został tragiony. Efekt utrzymuje się na poziomie obrażeń kolejnego ataku.
 ___
 
 **Regeneracja**
