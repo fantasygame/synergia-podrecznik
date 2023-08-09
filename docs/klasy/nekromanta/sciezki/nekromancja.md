@@ -36,7 +36,7 @@ Broń otrzymuje wampiryczny efekt o poziomie S.
 Kiedy wampiryczna broń zostanie użyta i zada obrażenia, ten kto ją dzierży może dodać wybraną ilość kości many do ataku. Maks poziomu efektu.\
 Dodatkowo, liczba sukcesów przy trudności 5 na tych kościach leczy dzierżącego.
 
-Poziom efektu zmniejsza się o ilość dodanych kości.
+Poziom efektu zmniejsza się o ilość wykorzystanych kości.
 ___
 
 **Nekrotyczny pocisk**
