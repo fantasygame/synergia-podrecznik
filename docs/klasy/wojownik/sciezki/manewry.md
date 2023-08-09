@@ -1,6 +1,6 @@
 # Manewry
 
-...
+Manewry wojownika to jego druga natura. Wyćwiczone latami ruchy sieją zamęt wśród wroków.
 
 <img src="imgs/manewry.png" width="400">
 

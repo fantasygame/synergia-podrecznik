@@ -1,6 +1,6 @@
 # Tarczownik
 
-...
+Tarczownik osłania sojuszników aby ci mogli się skupić na ataku. Woli stracić życie niż pozwolić ich zranić.
 
 <img src="imgs/tarczownik.png" width="400">
 

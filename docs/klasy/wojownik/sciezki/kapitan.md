@@ -1,6 +1,7 @@
 # Kapitan
 
-...
+Kapitan wydaje komendy, powodując że zgraja indywidualistów staje się skuteczną grupą bohaterów.\
+Nawet przeciwnicy słuchają jego rozkazów.
 
 <img src="imgs/kapitan.png" width="400">
 
