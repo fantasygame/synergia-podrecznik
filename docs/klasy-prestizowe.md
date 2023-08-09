@@ -1,5 +1,5 @@
 # Klasa prestiżowa
 
-Klasa prestiżowa dodaje nową kategorię [zdolności](docs/zdolnosc.md) 
+Klasa prestiżowa dodaje nową [ścieżkę zdolności](docs/sciezki-zdolnosci.md)
 
-Klasę prestiżową zdobywa się fabularnie podczas gry.
+Klasę prestiżową odblokowuje się fabularnie podczas gry lub po spełnieniu jej wymagań.
