@@ -39,7 +39,7 @@ Odpalasz racę dymną, umieszczoną na długim kiju.
 
 Trudność 5
 
-Raca zaciemniania pole na lewo od Ciebie. Przesuwając się po mapie, ciągniesz za sobą smugę dymu, która może zaciemnić do S pól.
+Raca zaciemniania pole na lewo od ciebie. Przesuwając się po mapie, ciągniesz za sobą smugę dymu, która może zaciemnić do S pól.
 ___
 
 **Przesunięcie pułapki**
