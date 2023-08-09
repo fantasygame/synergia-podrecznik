@@ -25,7 +25,7 @@ Jeżeli przeciwnik zostanie zaatakowany przez inną postać to na niej skupi swo
 
 ___
 
-**Iluzoryczna przeszkoda - przeciwnicy ją omijają dopóki ktoś nie wejdzie. Można ją zmieniać.**
+**Iluzoryczna przeszkoda**
 
 Tworzysz iluzoryczną przeszkodę, którą mniej sprytni przeciwnicy będą omijać.
 
@@ -38,8 +38,17 @@ Jeżeli nie będzie jak ominąć - mogą wydać manę aby uzyskać S i zorientow
 
 ___
 
-**Wyglądacie na większych - zwiększona trudność dla przeciwnika**
+**Iluzoryczny cel**
 
+Tworzysz iluzoryczną kopię przeciwnika w zasięgu.
+Trudność: poziom celu
+
+Kopia może być obrana jako cel ataków i zdolności. Efekty i rany nakładane są na prawdziwego przeciwnika.\
+Kopia nie wykonuje żadnych akcji, ale zajmuje pole/pola. Jeżeli ktoś wejdzie w iluzję - znika.
+
+Każda zdolność użyta przeciwko celowi zmniejsza poziom efektu o 1.
+
+Przeciwnicy o kości many mniejszej niż poziom przeszkody będą ją omijać.
 ___
 
 **Niewidzialność**
