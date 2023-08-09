@@ -9,6 +9,8 @@ Możesz również ciskać nimi w innych wrogów, lub rzucać sojuszników w wir 
 
 S - ilość sukcesów w rzucie kośćmi many
 
+Mechanika [pochwycenia](/docs/efekty/pochwycony.md)
+
 ___
 **Obezwładnienie**
 
