@@ -1,6 +1,6 @@
 # Chowaniec
 
-...
+Chowaniec jest przedłużeniem jego możliwości tropiciela. Nie odstępuje swojego pana na krok. Atakują w tandemie.
 
 <img src="imgs/chowaniec.png" width="400">
 

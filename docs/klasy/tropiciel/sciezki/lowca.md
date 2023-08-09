@@ -1,6 +1,6 @@
 # Łowca
 
-...
+Łowca to specjalista od polowań na bossów. Instruuje sojuszników jak pokonać wroga, obnażając jego słabości.
 
 <img src="imgs/lowca.png" width="400">
 
