@@ -1,6 +1,7 @@
 # Paladyn
 
-...
+Paladyn walczy świętym orężem, którego siła rośnie wraz z wykonywaniem woli bogów.\
+Ci w ramach wdzięczności mogą uchronić Paladyna i jego towarzyszy przed śmiercią.
 
 <img src="imgs/paladyn.png" width="400">
 

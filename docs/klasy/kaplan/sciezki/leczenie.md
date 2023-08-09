@@ -1,6 +1,6 @@
 # Leczenie
 
-Leczysz sojuszników, zdejmujesz z nich negatywne efekty.
+Leczysz sojuszników i zdejmujesz z nich negatywne efekty.
 
 <img src="imgs/leczenie.png" width="400">
 
