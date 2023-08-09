@@ -2,9 +2,9 @@
 
 Na test umiejętności składa się:
 
-Kość umiejętności: jaką kością rzucasz - d4-d12\
-Wartość atrybutu: jaką premię dostajesz - 1-5\
-Specjalizacja umiejętności: Iloma dodatkowymi kości umiejętności rzucasz
+Kość [umiejętności](/docs/umiejetnosci.md): jaką kością rzucasz - d4-d12\
+Wartość [atrybutu](/docs/atrybuty.md): jaką premię dostajesz - 1-5\
+[Specjalizacja w umiejętności](/docs/specjalizacja-w-umiejetnosci.md): Iloma dodatkowymi kości umiejętności rzucasz
 
 Mistrz gry ustala trudność testu.\
 Przeciętna trudność testu to 5 + poziom wyzwania (+/- poziom drużyny)
