@@ -53,7 +53,9 @@ Podziel S pomiędzy:
 * poziomem ograniczenia kroków
 * poziomem [zatrucia](/docs/efekty/zatrucie.md)
 
-Każdy dodatkowy cel stojący obok pierwszego +1M
+Efekt zmniejsza się o 1 przy każdym jego użyciu.
+
+Każdy dodatkowy cel stojący obok pierwszego koszt bazowy 1M. Max 4 przeciwników.
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
