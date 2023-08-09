@@ -32,15 +32,15 @@ Jeżeli jesteś wilkołakiem, możesz zaatakować dwa cele bez dodatkowego koszt
 Kolejny cel +2M
 ___
 
-**Masakrowanie**
+**Skok do gardła**
 
 Ofensywna zdolność wręcz, wilkołak
 
-Atakujesz przeciwnika. Zadajesz S obrażeń.\
-Trafiając zatapiasz w nim swoje pazury dodając efekt masakry o poziomie S.
+Skaczesz na przeciwnika aby rozszarpać mu gardło.
 
-Następny atak w tego przeciwnika dostaje S premii do rzutu, efekt jest usuwany.
-Jeżeli jednak przeciwnik został tragiony. Efekt utrzymuje się na poziomie obrażeń kolejnego ataku.
+Likantrop atakuje przeciwnika. Zadaje S obrażeń. Jeżeli trafił, przeciwnik jest [przewrócony](/docs/efekty/przewrocony.md).
+
+Skacząc na przeciwnika ignorujesz przeszkody, trudny teren i możesz przechodzić przez pola przeciwników, nie prowokujesz okazyjnych ataków.
 ___
 
 **Regeneracja**
