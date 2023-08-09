@@ -1,6 +1,6 @@
 # Psionika
 
-Psionik wykorzystuje siłę umysu aby kontrolować wrogów, wzmacniać psychikę sojuszników i poznawać ich zdolności.
+Psionik wykorzystuje siłę umysu aby kontrolować wrogów, wzmacniać psychikę sojuszników oraz uczyć się zdolności czytając cudze umysły.
 
 <img src="imgs/psionika.png" width="400">
 
