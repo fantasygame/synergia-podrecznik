@@ -10,5 +10,9 @@ W grze istnieją cztery umiejętności:
 Wartość umiejętności przedstawia się wysokością kości
 d4-d12
 
-Patrz też [Specjalizacja w umiejętności](/docs/specjalizacja-w-umiejetnosci.md)
+Patrz też:
+
+[Testy umiejętności](/docs/testy-umiejetnosci.md)
+
+[Specjalizacja w umiejętności](/docs/specjalizacja-w-umiejetnosci.md)
 
