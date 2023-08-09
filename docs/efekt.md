@@ -19,3 +19,16 @@ Czas trwania efektów różny się zależnie od zdolności
   * Oplątanie zmniejsza się o ilość kroków, które ograniczyło.
 * Zmniejszający się o stałą ilość
   * Zmniejsza się o stałą ilość poziomów po każdym użyciu
+
+# Lista efektów
+* [W ciemności](/docs/efekty/ciemnosc.md)
+* [Oślepiony](/docs/efekty/oslepiony.md)
+* [Pochwycony](/docs/efekty/pochwycony.md)
+* [Podpalony](/docs/efekty/podpalenie.md)
+* [Przewrócony](/docs/efekty/przewrocony.md)
+* [Spowolniony](/docs/efekty/spowolnienie.md)
+* [Przestraszony](/docs/efekty/strach.md)
+* [Unieruchomiony](/docs/efekty/unieruchomiony.md)
+* [Zamrożony](/docs/efekty/zamrozenie.md)
+* [Zatruty](/docs/efekty/zatrucie.md)
+* [Zmrożony](/docs/efekty/zmrozenie.md)
