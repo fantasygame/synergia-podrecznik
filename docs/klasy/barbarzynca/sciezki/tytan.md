@@ -10,13 +10,6 @@ Możesz również ciskać nimi w innych wrogów, lub rzucać sojuszników w wir 
 S - ilość sukcesów w rzucie kośćmi many
 
 ___
-
-**Pochwycenie**
-
-Atak z bliska przeciwko życiu.
-
-[Chwytasz](/docs/efekty/pochwycony.md) dwóch przeciwników.
-___
 **Obezwładnienie**
 
 Atak przeciwko kości życia pochwyconego przeciwnika.
@@ -60,7 +53,11 @@ Możesz dodać inspirację do kości many.
 
 # Przykładowe [talenty](/docs/talent.md)
 
-**Dodatkowe pochwycenie:**
+**Grupowe pochwycenie**
+
+Możesz chwytać dwa cele.
+
+**Lepsze pochwycenie:**
 
 Efekt pochwycenia +1S
 
