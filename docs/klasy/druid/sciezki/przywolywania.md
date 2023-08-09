@@ -32,7 +32,7 @@ Z ziemi wyrasta wybrana przez ciebie roślina.
 
 Roślina nie ma kroków, ale celem jej akcji zawsze mogą być dwie postaci sąsiadujące z rośliną.
 
-Grzyb - powoduje S poziom otrucia\
+Grzyb - powoduje S poziom [zatrucia](/docs/efekty/zatrucie.md)\
 Pnącze - oplącuje odejmując S kroków przeciwnikom\
 Paproć - dodaje S pancerza przyległym - może być użyte jako reakcja na atak w sojusznika\
 Borówki - leczą S ran
