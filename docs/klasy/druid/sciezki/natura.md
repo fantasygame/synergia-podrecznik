@@ -38,7 +38,7 @@ Na twojej skórze wyrastają ciernie.
 
 Dostajesz S poziomów efektu cierni.
 
-Kiedy przeciwnik cię atakuje otrzymuje atak S swoich kości many.
+Kiedy przeciwnik cię atakuje otrzymuje atak S swoich kości many. Maksymalnie tyle kości iloma atakuje.
 
 Efekt zmniejsza się o 1 przy każdym użyciu
 ___
