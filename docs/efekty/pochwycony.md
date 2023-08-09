@@ -9,3 +9,12 @@ Chwytający +lvl do many przeciwko pochwyconemu
 
 Zdolność powszechna
 ```
+
+```
+Oswobodzenie
+vs życie
+
+Tyle sukcesów vs życie chwytającego co poziom pochwycenia.
+
+Zdolność powszechna
+```
