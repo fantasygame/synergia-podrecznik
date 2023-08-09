@@ -56,4 +56,5 @@ Bazowy koszt: 3 many. 2 many przeciwko oznaczonemu przeciwnikowi.
 Wyprowadzasz serię uderzeń w oznaczony cel.
 
 Zaatakuj oznaczony cel trzy razy.\
-Jeśli jeden z ataków trafi, dodaj do kolejnego dodatkową kość many.\ Jeśli pierwszy i drugi atak trafią, dodaj do ostatniego dwie dodatkowe kości many.
+Jeśli jeden z ataków trafi, dodaj do kolejnego dodatkową kość many.\
+Jeśli pierwszy i drugi atak trafią, dodaj do ostatniego dwie dodatkowe kości many.
