@@ -10,7 +10,7 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Formacja - przesuwa sojuszników**
+**Przegrupowanie**
 
 Trudność: 5
 
@@ -20,7 +20,7 @@ Ta zdolność nie zużywa kroków.
 
 ___
 
-**Atak oddziałem - każdy sojusznik atakuje za M/2**
+**Atak formacją**
 
 Trudność: 5
 
@@ -30,7 +30,7 @@ Każdy sojusznik w zasięgu (w tym ty) atakuje podstawowym atakiem za S/2 many.
 
 ___
 
-**Ściana tarcz - grupa sojuszników stojących obok siebie - wszystkim S to pancerza**
+**Ściana tarcz**
 
 Trudność: 5
 
