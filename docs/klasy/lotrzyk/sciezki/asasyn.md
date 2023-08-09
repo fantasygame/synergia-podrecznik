@@ -1,6 +1,6 @@
 # Asasyn
 
-...
+Asasyn szuka odpowiedniej pozycji aby zadać bolesny atak z wykorzystaniem trucizny.
 
 <img src="imgs/asasyn.png" width="400">
 
@@ -49,19 +49,3 @@ Obniż rodzaj kości życia przeciwnika o S do następnego ataku.
 Bazowy koszt many: 3M
 
 Możesz zaatakować każdego wroga, przy którym stoi sojusznik.
-___
-# Przykładowe [talenty](/docs/talent.md)
-
-**:**
-
-Fart: [zmrażasz](/docs/efekty/zmrozenie.md) przeciwnika.\
-Stopień efektu [Zmrożenia](/docs/efekty/zmrozenie.md) równy ilości S
-
-**Ukradkowy z dystansu:**
-
-Możesz wykonywać ukradkowy atak z dystansu.
-
-**Lodowy talent:**
-
-Dodaj połowę swojego poziomu do wszystkich rzutów z tej ścieżki.
-

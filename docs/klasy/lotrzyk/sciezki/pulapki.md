@@ -1,6 +1,6 @@
 # Pułapki
 
-...
+Łotrzyk zastawia pułapki, które uniemożliwiają przeciwnikom zyskanie przewagi na polu bitwy.
 
 <img src="imgs/pulapki.png" width="400">
 
