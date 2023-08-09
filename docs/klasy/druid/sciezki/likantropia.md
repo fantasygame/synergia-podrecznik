@@ -20,6 +20,7 @@ Sukcesy podziel na:
 - dodatkowe kroki
 - zwiększony zasięg
 ___
+
 **Furia**
 
 Ofensywna zdolność wręcz.
@@ -30,6 +31,7 @@ Jeżeli jesteś wilkołakiem, możesz zaatakować dwa cele bez dodatkowego koszt
 
 Kolejny cel +2M
 ___
+
 **Masakrowanie**
 
 Ofensywna zdolność wręcz, wilkołak
@@ -40,6 +42,7 @@ Trafiając zatapiasz w nim swoje pazury dodając efekt masakry o poziomie S.
 Kolejne trafione przez ciebie ataki w tego samego przeciwnika mają S premii do rzutu.
 Kolejne S przy ataku zwiększają poziom efektu.
 ___
+
 **Regeneracja**
 
 Zdolność defensywna.
@@ -52,4 +55,10 @@ ___
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Krwawy księżyc - dodawanie ekstra życia za zadane obrażenia**
+**Krwawy atak**
+
+Atakujesz wszystkich przeciwników wokół siebie.\
+Ich krew cię wzmacnia
+
+Zwiększasz ilość kości życia za każdego zabitego przeciwnika.\
+Możesz zyskać dodatkowe kości ponad początkowe zgodnie z zasadami [rozwijania kości życia i many](/docs/levelowanie-postaci.md).
