@@ -57,6 +57,8 @@ ___
 
 **Krwawy atak**
 
+Bazowy koszt: 3 many
+
 Atakujesz wszystkich przeciwników wokół siebie.\
 Ich krew cię wzmacnia
 
