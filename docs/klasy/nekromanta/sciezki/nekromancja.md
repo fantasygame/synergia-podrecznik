@@ -67,7 +67,7 @@ Za każdą zadaną ranę możesz przenieść energię życiową, lecząc jedną 
 
 Przywołany nieumarły może zyskać dodatkowe kości ponad początkowe zgodnie z zasadami [rozwijania kości życia i many](/docs/levelowanie-postaci.md).
 
-# Talenty
+# Przykładowe [talenty](/docs/talent.md)
 
 **Szybkie wskrzeszenie:**
 

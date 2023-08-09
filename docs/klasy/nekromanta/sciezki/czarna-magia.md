@@ -78,7 +78,7 @@ Możesz zdecydować się na pominięcie wybranych.
 
 Bazowy koszt many: 3M
 
-# Talenty
+# Przykładowe [talenty](/docs/talent.md)
 
 **Ostra włócznia:**
 

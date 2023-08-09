@@ -58,7 +58,7 @@ Atak przeciwko kości życia pochwyconych przeciwników.
 Nieważne ilu przeciwników trzymasz w pochwyceniu. Zadajesz obrażenia wszystkim.
 Możesz dodać inspirację do kości many.
 
-# Talenty
+# Przykładowe [talenty](/docs/talent.md)
 
 **Dodatkowe pochwycenie:**
 

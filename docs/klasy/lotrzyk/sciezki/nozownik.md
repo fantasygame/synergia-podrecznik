@@ -52,7 +52,7 @@ Ataki wykonujesz tak długo jak możesz doskoczyć do kolejnego celu.
 
 Za każdy niewykorzystany krok dostajesz punkt inspiracji.
 
-# Talenty
+# Przykładowe [talenty](/docs/talent.md)
 
 **Mobilność:**
 

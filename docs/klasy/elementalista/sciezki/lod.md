@@ -84,7 +84,7 @@ Zadajesz S obrażeń i poziomów zmrożenia.
 
 Możesz wydać dodatkowe 2M aby zwiększyć obszar do 4x4
 
-# Talenty
+# Przykładowe [talenty](/docs/talent.md)
 
 **Zmrożenie:**
 

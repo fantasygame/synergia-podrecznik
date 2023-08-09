@@ -62,7 +62,7 @@ Jeżeli nie masz many ani inspiracji. Rzuć jedną kością many.
 
 Zapobiegasz utracie S życia. Nadmiarowe sukcesy cię leczą lub dodają inspirację.
 
-# Talenty
+# Przykładowe [talenty](/docs/talent.md)
 
 **Donośny głos:**
 

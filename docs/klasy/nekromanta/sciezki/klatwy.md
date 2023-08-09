@@ -53,7 +53,7 @@ Rzucasz dowolną klątwę na wszystkich w zasięgu.
 
 Bazowy koszt many: 4M
 
-# Talenty
+# Przykładowe [talenty](/docs/talent.md)
 
 **Podwójna klątwa:**
 

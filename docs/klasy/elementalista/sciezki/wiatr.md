@@ -79,7 +79,7 @@ Każdego przeciwnika możesz albo:
 * odepchnąć (vs mana) o S kroków w wybranym kierunku
 * pociąć odłamkami (obrażenia vs życie)
 
-# Talenty
+# Przykładowe [talenty](/docs/talent.md)
 
 **Halny wiatr:**
 

@@ -76,7 +76,7 @@ Trzy meteoryty o obszarze 2x2.
 Możesz wydać dodatkowe 2M aby zwiększyć meteoryty do 3x3.\
 Lub dodatkowe 1M aby dodać kolejny meteoryt.
 
-# Talenty
+# Przykładowe [talenty](/docs/talent.md)
 
 **Podpalenie:**
 

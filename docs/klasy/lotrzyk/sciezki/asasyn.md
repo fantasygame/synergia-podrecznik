@@ -50,7 +50,7 @@ Bazowy koszt many: 3M
 
 Możesz zaatakować każdego wroga, przy którym stoi sojusznik.
 ___
-# Talenty
+# Przykładowe [talenty](/docs/talent.md)
 
 **:**
 

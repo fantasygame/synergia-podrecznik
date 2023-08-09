@@ -58,7 +58,7 @@ Szał zwiększa się za każdego zabitego przeciwnika podczas tego ataku.
 
 Nie możesz zrobić skoku w miejscu.
 
-# Talenty
+# Przykładowe [talenty](/docs/talent.md)
 
 **Niekontrolowany szał:**
 
