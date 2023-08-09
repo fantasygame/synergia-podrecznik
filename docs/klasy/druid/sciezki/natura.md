@@ -56,3 +56,16 @@ Każdy dodatkowy cel stojący obok pierwszego +1M
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
 **Miażdżące oplątanie**
+
+Ofensywna zdolność obszarowa.
+
+Przywołujesz korzenie i liany, które oplątują wrogów.
+
+Bazowy koszt many: 3M
+
+Obszar 3x3
+
+Podziel S na:
+* poziomem ograniczenia kroków
+* obrażeniami fizycznymi
+* zwiększonym obszarem 4x4 = 1M, 5x5 = 2M
