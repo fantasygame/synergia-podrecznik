@@ -69,7 +69,7 @@ Bazowy koszt many: 3M
 
 Obszar 3x3
 
-Podziel S na:
-* poziomem ograniczenia kroków
-* obrażeniami fizycznymi
-* zwiększonym obszarem 4x4 = 1M, 5x5 = 2M
+Po rzucie wybierz efekty:
+* poziomem ograniczenia kroków (Trudność: Kość many przeciwnika)
+* obrażeniami fizycznymi (Trudność: Kość życia przeciwnika)
+* zwiększonym obszarem 4x4 = 1M, 5x5 = 2M (Trudność: 5)
