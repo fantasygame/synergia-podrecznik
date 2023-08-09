@@ -30,6 +30,8 @@ Synergia to system który:
   * [Tworzenie postaci](docs/tworzenie-postaci.md)
   * [Klasa Postaci](docs/klasy/klasy.md)
   * [Umiejętności](docs/umiejetnosci.md)
+    * [Testy umiejętności](/docs/testy-umiejetnosci.md)
+    * [Specjalizacja w umiejętności](/docs/specjalizacja-w-umiejetnosci.md)
   * [Atrybuty](docs/atrybuty.md)
   * [Pancerz](docs/pancerz.md)
   * [Zdolność](docs/zdolnosc.md)
