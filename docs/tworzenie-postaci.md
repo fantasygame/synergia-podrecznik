@@ -6,4 +6,4 @@
 3. Wybierz dwie [zdolnosci](docs/zdolnosc.md) z listy twojej [klasy postaci](docs/klasy-postaci.md).
 4. Wybierz jedną [umiejętność](docs/umiejetnosci.md) - zamaluj kość jednej [umiejętności](docs/umiejetnosci.md)
 5. Wymyśl jedną [zdolność fabularną](docs/zdolnosc-fabularna.md)
-6. Wybierz jeden [atrybut](docs/atrybuty.md) - zamaluj kość [atrybutu](docs/atrybuty.md)
+6. Wybierz jeden [atrybut](docs/atrybuty.md) - dodaj premię [atrybutu](docs/atrybuty.md)
