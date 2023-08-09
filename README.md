@@ -51,7 +51,7 @@ Synergia to system który:
   * [Tropiciel](docs/klasy/tropiciel/tropiciel.md)
   * [Wojownik](docs/klasy/wojownik/wojownik.md)
   * [Zaklinacz](docs/klasy/zaklinacz/zaklinacz.md)
-* [Klasy prestiżowy](docs/klasy/klasy-prestizowe.md)
+* [Klasy prestiżowe](docs/klasy/klasy-prestizowe.md)
   * [Łowca Smoków](/docs/klasy-perstizowe/lowca-smokow.md)
 
 * Walka
