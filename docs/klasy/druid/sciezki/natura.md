@@ -72,4 +72,4 @@ Obszar 3x3
 Po rzucie wybierz efekty:
 * poziomem ograniczenia kroków (Trudność: Kość many przeciwnika)
 * obrażeniami fizycznymi (Trudność: Kość życia przeciwnika)
-* zwiększonym obszarem 4x4 = 1M, 5x5 = 2M (Trudność: 5)
+* zwiększonym obszarem (Trudność: 5)
