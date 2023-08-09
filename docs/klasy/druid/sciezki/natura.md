@@ -22,7 +22,7 @@ ___
 
 **Drażniący pył**
 
-Sypiesz pyłem z pokrzyw w twarz przeciwnika. 
+Sypiesz pyłem z pieprzu w twarz przeciwnika. 
 
 Zdolność dystansowa\
 Trudność: kość many przeciwnika.
