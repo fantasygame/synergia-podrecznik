@@ -20,7 +20,7 @@ Tworzysz szkielet o S wybranych kości.
 
 Możesz zwiększyć bazowy koszt:\
 1M: Szkielet ma łuk i może atakować dystansowo\
-2M: Szkielet jest nekromantą, atakuje dystansowo i może tworzyć kolejne szkielety.
+2M: Szkielet jest nekromantą, atakuje dystansowo obrażeniami cienia i może tworzyć kolejne szkielety.
 
 Szkielet atakuje wręcz - obrażenia fizyczne.
 ___
