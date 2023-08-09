@@ -1,6 +1,6 @@
 # Przywoływania
 
-...
+Druid przywołuje zwierzęta i rośliny, które pomagają mu w walce.
 
 <img src="imgs/przywolywania.png" width="400">
 

@@ -1,6 +1,6 @@
 # Likantropia
 
-...
+Druid zamienia się w wilkołaka stając się maszyną do zabijania.
 
 <img src="imgs/likantropia.png" width="400">
 
