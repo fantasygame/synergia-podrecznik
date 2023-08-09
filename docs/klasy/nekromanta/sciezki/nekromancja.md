@@ -10,36 +10,43 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Szkielet**
+**Ożywienie szkieletu**
 
 Zdolność dystansowa, wymaga ciała.
 
-Trudność: Wybrana kość szkieleta ([minion](/docs/boss-i-miniony.md))\
-Tworzysz szkielet z S kośćmi.
+Trudność: Wysokość wybranego rodzaju kości szkieleta ([minion](/docs/boss-i-miniony.md))\
+
+Tworzysz szkielet o S wybranych kości.
+
+Możesz zwiększyć bazowy koszt:\
+1M: Szkielet ma łuk i może atakować dystansowo\
+2M: Szkielet jest nekromantą, atakuje dystansowo i może tworzyć kolejne szkielety.
 
 Szkielet atakuje wręcz - obrażenia fizyczne.
 ___
-**Szkielet Łucznik**
 
-Zdolność dystansowa, wymaga ciała.
+**Wampiryczna broń**
 
-Trudność: Wybrana kość szkieleta ([minion](/docs/boss-i-miniony.md))\
-Tworzysz szkielet z S kośćmi.
+Zaklinasz broń dowolnej postaci. Broń zadaje dodatkowe nekrotyczne obrażenia i wysysa siły życiowe ofiary.
 
-Szkielet atakuje dystansowo - obrażenia fizyczne.
+Trudność: 5
+
+Broń otrzymuje wampiryczny efekt o poziomie S.
+
+Kiedy wampiryczna broń zostanie użyta i zada obrażenia, ten kto ją dzierży może dodać wybraną ilość kości many do ataku. Maks poziomu efektu.\
+Dodatkowo, liczba sukcesów przy trudności 5 na tych kościach leczy dzierżącego.
+
+Poziom efektu zmniejsza się o ilość dodanych kości.
 ___
-**Szkielet Nekromanta**
 
-Zdolność dystansowa, wymaga ciała.\
-Trudność: Wybrana kość szkieleta ([minion](/docs/boss-i-miniony.md))\
-Bazowy koszt many: 2M
+**Nekrotyczny pocisk**
 
-Tworzysz szkielet z S kośćmi.
+Bazowy koszt: 1M
 
-Szkielet nekromanta może atakować dystansowo - obrażenia od cienia.
-
-Może też tworzyć nowe szkielety.
+Zadajesz przeciwnikowi obrażenia od cienia.
+Jeżeli przeciwnik zginął, możesz automatycznie wykorzystać zdolność ożywienia szkieletu, używając tego samego wyniku.
 ___
+
 **Podniesienie wroga**
 
 Zdolność dystansowa, wymaga ciała.\
