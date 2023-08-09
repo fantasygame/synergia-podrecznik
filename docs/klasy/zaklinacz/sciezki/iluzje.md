@@ -1,6 +1,7 @@
 # Iluzje
 
-...
+Za pomocą potężnych iluzji zaklinacz wyprowadza przeciwników w pole.\
+Krążą głoski że niektóre jego iluzje niewiele się różnią od rzeczywistości.
 
 <img src="imgs/iluzje.png" width="400">
 
