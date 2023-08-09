@@ -1,6 +1,6 @@
-# Łowca smoków
+# Łowca Smoków
 
-Bractwo łowców smoków kultywuje wiedzę o smokach i wykorzystuje ją w opracowywaniu metod walki z tymi ogromnymi gadami.
+Bractwo Łowców Smoków kultywuje wiedzę o smokach i wykorzystuje ją w opracowywaniu metod walki z tymi ogromnymi gadami.
 
 <img src="imgs/lowca-smokow.png" width="400">
 
