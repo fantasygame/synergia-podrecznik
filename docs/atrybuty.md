@@ -18,3 +18,5 @@ W grze isnieją trzy atrybuty:
   * wykupione poziomy dodają premię
     * do testów ataków magicznych
     * do pancerza przeciwko atakom magicznym
+
+Postać z wykupioną połową atrybutu wygrywa remisy testów przeciwstawnych.
