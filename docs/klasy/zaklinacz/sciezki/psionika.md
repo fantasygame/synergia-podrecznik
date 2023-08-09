@@ -23,11 +23,11 @@ ___
 
 **Telepatia**
 
-Czytasz w umysłach swoich sojuszników aby poznać ich zdolności.
+Czytasz w umysłach postaci aby poznać ich zdolności.
 
 Bazowy koszt many: 2 many
 
-Możesz wykorzystać zdolność dowolnego członka drużyny.
+Możesz wykorzystać zdolność dowolnej postaci.
 
 ___
 
