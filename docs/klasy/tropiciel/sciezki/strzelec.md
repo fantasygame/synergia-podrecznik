@@ -18,9 +18,9 @@ Atakujesz wroga. Jeśli trafisz, dodatkowo odrzucasz go o S/2 kroków (min 1).
 ___
 **Salwa**
 
-Ostrzeliwujesz wielu wrogów.
+Ostrzeliwujesz wielu wrogów w zasięgu.
 
-Bazowy koszt: 1M, 2M, 3M kolejne cele
+Bazowy koszt: 1M - dwa cele, 2M - trzy cele, 3M - cztery cele
 ___
 **Rozpraszający strzał**
 
