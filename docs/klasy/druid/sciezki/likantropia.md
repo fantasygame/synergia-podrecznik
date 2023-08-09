@@ -42,6 +42,12 @@ Kolejne S przy ataku zwiększają poziom efektu.
 ___
 **Regeneracja**
 
+Zdolność defensywna.
+
+Trudność: 5
+
+Regenerujesz swoje rany.\
++1S jeżeli jesteś wilkołakiem.
 ___
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
