@@ -2,7 +2,7 @@
 
 Ścieżka czarnej magii manipuluje kośćmi i ciałem poległych przeciwników. Nic się nie marnuje.
 
-<img src="imgs/czarna-magia.png" width="400">
+<!-- <img src="imgs/czarna-magia.png" width="400"> -->
 
 # Zdolności:
 

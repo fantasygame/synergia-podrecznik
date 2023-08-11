@@ -3,7 +3,7 @@
 Tytan wykorzystuje swoja siłę aby chwytać przeciwników i pacyfikować ich w parterze.
 Możesz również ciskać nimi w innych wrogów, lub rzucać sojuszników w wir walki.
 
-<img src="imgs/tytan.png" width="400">
+<!-- <img src="imgs/tytan.png" width="400"> -->
 
 # Zdolności:
 

@@ -3,7 +3,7 @@
 Okrzykami bojowymi barbarzyńca prowokuje i straszy przeciwników.\
 Potrafi również zwiększać swoją odporność i oszukiwać śmierć. 
 
-<img src="imgs/okrzyki-bojowe.png" width="400">
+<!-- <img src="imgs/okrzyki-bojowe.png" width="400"> -->
 
 # Zdolności:
 

@@ -2,7 +2,7 @@
 
 Berserker opiera się na szale bojowym, który sieje zamęt wśród przeciwników.
 
-<img src="imgs/berserker.png" width="400">
+<!-- <img src="imgs/berserker.png" width="400"> -->
 
 # Zdolności:
 

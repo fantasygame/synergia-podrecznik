@@ -2,7 +2,7 @@
 
 Kapłan wykorzystuje względy u bogów sprowadzając ich błogosławieństwo na drużynę.
 
-<img src="imgs/blogoslawienstwo.png" width="400">
+<!-- <img src="imgs/blogoslawienstwo.png" width="400"> -->
 
 # Zdolności:
 

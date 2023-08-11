@@ -2,7 +2,7 @@
 
 Druid wykorzystuje siły przyrody aby się wzmocnić, osłabić przeciwników i zniewolić ich pnączami.
 
-<img src="imgs/natura.png" width="400">
+<!-- <img src="imgs/natura.png" width="400"> -->
 
 # Zdolności:
 

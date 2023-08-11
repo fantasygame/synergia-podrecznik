@@ -2,7 +2,7 @@
 
 Nożownik dynamicznie przemieszcza się pomiędzy przeciwnikami zadając im serie dotkliwych ran.
 
-<img src="imgs/nozownik.png" width="400">
+<!-- <img src="imgs/nozownik.png" width="400"> -->
 
 # Zdolności:
 

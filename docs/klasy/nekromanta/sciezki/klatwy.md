@@ -2,7 +2,7 @@
 
 Rzucasz potężne klątwy osłabiające przeciwników.
 
-<img src="imgs/klatwy.png" width="400">
+<!-- <img src="imgs/klatwy.png" width="400"> -->
 
 # Zdolności:
 

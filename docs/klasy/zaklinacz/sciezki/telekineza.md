@@ -2,7 +2,7 @@
 
 Telekineza to sztuka manipulacji miejscem w czasoprzestrzeni. Teleportowanie postaci, przyciąganie niewidzialną mocą, zmienianie praw fizyki.
 
-<img src="imgs/telekineza.png" width="400">
+<!-- <img src="imgs/telekineza.png" width="400"> -->
 
 # Zdolności:
 

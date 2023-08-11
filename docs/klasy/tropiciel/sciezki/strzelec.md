@@ -2,7 +2,7 @@
 
 Strzelec specjalizuje się w atakach dystansowych. Jest skuteczny przeciwko jednemu i wielu przeciwnikom.
 
-<img src="imgs/strzelec.png" width="400">
+<!-- <img src="imgs/strzelec.png" width="400"> -->
 
 # Zdolności:
 

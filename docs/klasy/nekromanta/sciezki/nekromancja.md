@@ -2,7 +2,7 @@
 
 Nekromancja pozwala podnosić szkielety oraz poległych przeciwników.
 
-<img src="imgs/nekromancja.png" width="400">
+<!-- <img src="imgs/nekromancja.png" width="400"> -->
 
 # Zdolności:
 

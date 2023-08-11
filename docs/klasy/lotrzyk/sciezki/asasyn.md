@@ -2,7 +2,7 @@
 
 Asasyn szuka odpowiedniej pozycji aby zadać bolesny atak z wykorzystaniem trucizny.
 
-<img src="imgs/asasyn.png" width="400">
+<!-- <img src="imgs/asasyn.png" width="400"> -->
 
 # Zdolności:
 

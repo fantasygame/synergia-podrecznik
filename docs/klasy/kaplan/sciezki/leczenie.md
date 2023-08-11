@@ -2,7 +2,7 @@
 
 Leczysz sojuszników i zdejmujesz z nich negatywne efekty.
 
-<img src="imgs/leczenie.png" width="400">
+<!-- <img src="imgs/leczenie.png" width="400"> -->
 
 # Zdolności:
 
