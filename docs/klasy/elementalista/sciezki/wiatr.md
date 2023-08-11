@@ -39,7 +39,7 @@ Podziel S pomiędzy:
 * Ilością pól ściany (ściana nie musi mieć linii prostej)
 * Ilością kości odpychania.
 
-Jeżeli przeciwnik wejdzie na taflę lodu rzuć kośćmi odpychania (twoje kości many). Odpychasz przeciwnika o S kroków od ściany.
+Jeżeli przeciwnik wejdzie na pole ściany wiatru rzuć kośćmi odpychania (twoje kości many). Odpychasz przeciwnika o S kroków od ściany.
 
 ```
 Przykład:
