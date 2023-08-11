@@ -22,7 +22,7 @@ ___
 **Wrażliwość**
 
 Zdolność dystansowa.
-Trudność: 5
+Trudność: Kość many przeciwnika.
 
 Zmniejszasz rodzaj kości życia o S.
 
